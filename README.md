@@ -1,5 +1,5 @@
-** Sample Node JS based API server **
+#Sample Node JS based API server
 
-Author: Preet Kamal Singh Minhas
+**Author** Preet Kamal Singh Minhas
 
-** Licence ** MIT
+**Licence** MIT
