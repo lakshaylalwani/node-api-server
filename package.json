@@ -1,0 +1,24 @@
+{
+  "name": "node-api-server",
+  "version": "1.0.0",
+  "description": "A sample API server created using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {},
+  "author": "Preet Kamal Singh Minhas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-enrouten": "^1.3.0",
+    "express-jwt": "^3.4.0",
+    "express-validation": "^0.6.0",
+    "joi": "^8.4.0",
+    "jsonwebtoken": "^7.0.0",
+    "morgan": "^1.7.0",
+    "serve-static": "^1.10.3"
+  }
+}
